@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Django default" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="9ad00961-3d7d-4d09-8093-18aed4e3fc21">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/$PROJECT_DIR$/db.sqlite3</jdbc-url>
+    <libraries/>
+  </data-source>
+</component>
